@@ -1,0 +1,93 @@
+#container{
+	width: 800px;
+	height: 600px;
+	border: 3px solid silver;
+	margin: 0 auto;
+}
+#header{
+	width: 800px;
+	height: 97px;
+	border-bottom: : 2px solid white;
+	background-color: #0099FF;
+	margin-bottom: 3px;
+	line-height: 97px;
+	font-size: 25px;
+	color: white;
+}
+#content{
+	width: 800px;
+	height: 400px;
+	margin-bottom: 2px;
+}
+.ct{
+	width: 200px;
+	height: 400px;
+	background-color: white;
+	float: left;
+}
+#main{
+	width: 400px;
+	height: 400px;
+	background-color: white;
+	float: left;
+}
+#footer{
+	width: 800px;
+	height: 98px;
+	background-color: #0099FF;
+	line-height: 98px;
+	font-size: 25px;
+	color: white;
+}
+#main1{
+	width: 400px;
+	height: 217px;
+	margin-bottom: 3px;
+}
+#main-ct{
+	width: 240px;
+	height: 217px;
+	background-color: #33CC33;
+	float: left;
+	line-height: 217px;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+}
+#sidebar{
+	width: 154px;
+	height: 217px;
+	background-color: #9900FF;
+	margin-left: 3px;
+	float: left;
+	line-height: 217px;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+}
+#main2{
+	width: 400px;
+	height: 179px;
+}
+#twin1{
+	width: 198px;
+	height: 179px;
+	background-color: #FF6600;
+	margin-right: 2px;
+	float: left;
+	line-height: 179px;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+}
+#twin2{
+	width: 197px;
+	height: 179px;
+	background-color: #FF6600;
+	margin-left: 1px;
+	float: left;
+	line-height: 179px;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+}

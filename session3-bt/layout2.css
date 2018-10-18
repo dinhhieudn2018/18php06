@@ -1,0 +1,51 @@
+#container{
+	width: 800px;
+	height: 600px;
+	border: 1px solid silver;
+	margin: 0 auto;
+}
+#header{
+	width: 800px;
+	height: 90px;
+	background-color: yellow;
+	margin-bottom: 10px;
+	line-height: 90px;
+}
+#content{
+	width: 800px;
+	height: 400px;
+	
+	margin-bottom: 10px;
+}
+#footer{
+	width: 800px;
+	height: 90px;
+	background-color: yellow;
+	line-height: 90px;
+}
+#nav{
+	width: 140px;
+	height: 400px;
+	background-color: yellow;
+	float: left;
+	line-height: 70px;
+	text-align: center;
+}
+#article{
+	width: 500px;
+	height: 400px;
+	background-color: yellow;
+	margin-right: 10px;
+	margin-left: 10px;
+	float: left;
+	line-height: 70px;
+	text-align: center;
+}
+#ads{
+	width: 140px;
+	height: 400px;
+	background-color: yellow;
+	line-height: 70px;
+	float: left;
+	text-align: center;
+}
