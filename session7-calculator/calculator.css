@@ -1,0 +1,26 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.btn{
+	width: 44px;
+	height: 32px;
+	margin-right: -4px;
+}
+#ketqua{
+	width: 168px;
+	height: 32px;
+}
+#btn0{
+	width: 88px;
+	height: 34px;
+	margin-right: -4px;
+}
+form{
+	text-align: center;
+}
+.btn1{
+	width: 40px;
+	height: 32px;
+	background-color: #FF9900;
+}
